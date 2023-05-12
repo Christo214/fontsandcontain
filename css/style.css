@@ -1,0 +1,134 @@
+*
+{
+	margin:0;
+	padding:0;
+	overflow-x: auto;
+	
+}
+h2
+{
+	text-align:center;
+	color:blue;
+}
+
+.container1
+{
+	display:inline-block;
+	background-color:pink;
+	width: 330px;
+	/* height:600px; */
+	margin:10px;
+	padding:15px;
+	line-height:2;
+	text-align:center;
+}
+.bg
+{
+	margin:0 auto;
+	background-color:white;
+	width:300px;
+	height:550px;
+	margin:2px;
+	padding:15px;
+}
+.image
+{
+	margin:0 auto;
+	border:2px solid;
+	border-radius:50%;
+	width:150px;
+	height:150px;
+	overflow:hidden;
+}
+.name
+{
+	color:red;
+	text-align:center;
+}
+.para
+{
+	color:blue;
+	padding:20px;
+}
+.icon span
+{
+	color:red;
+	padding:20px;
+}
+
+.container2
+{
+	display:inline-block;
+	background-color:pink;
+	width: 310px;
+	/* height:600px; */
+	padding:5px;
+	
+}
+.bg1
+{
+	margin:2px;
+	background-color:white;
+	width:300px;
+	/* height:550px; */
+	/* padding:15px; */
+}
+.image1
+{
+	margin: 0 auto;
+	width:300px;
+	height:194px;
+	overflow:hidden;
+}
+.section
+{
+	padding:15px;
+}
+.new
+{
+	border:2px solid;
+	color:red;
+	padding:5px;
+	background-color:yellow;
+}
+.dat
+{
+	margin-left:120px;
+	color:red;
+}
+.letter 
+{
+	line-height:1;
+	text-align:center;
+	margin:0 auto;
+	color:blue;
+	padding:20px;
+}
+.jj{color:orange;}
+
+.container3
+{
+	display:inline-block;
+	background-color:pink;
+	width:380px;
+	/* height:400px; */
+}
+.bg2
+{
+	margin:15px;
+	background-color:white;
+	width:350px;
+	height:350px;
+	overflow:hidden;
+}
+.image2
+{	
+	/* width:350px; */
+	/* height:180px; */
+}
+.lond
+{
+	color:blue;
+	text-align:center;
+	padding:80px;
+}
